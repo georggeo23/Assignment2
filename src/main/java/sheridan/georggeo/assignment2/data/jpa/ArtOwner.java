@@ -2,7 +2,6 @@ package sheridan.georggeo.assignment2.data.jpa;
 
 import com.fasterxml.jackson.annotation.JsonGetter;
 import jakarta.persistence.*;
-
 import java.util.ArrayList;
 import java.util.List;
 
