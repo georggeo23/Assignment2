@@ -1,0 +1,21 @@
+html,
+body {
+    min-width: 290px;
+    color: #353f44;
+    background-color: #bfc4ce;
+    font-family: Roboto, sans-serif;
+    line-height: 1.5;
+}
+
+body {
+    display: block;
+    margin: 8px;
+    font-family: Roboto, sans-serif;
+}
+a{
+    text-decoration: none;
+    color: #063265;
+    display: block;
+    padding: 5px 15px;
+    cursor: pointer;
+}
